@@ -1,0 +1,69 @@
+#Ignore specific windows folders that cause system errors when trying to access them
+../../../.bash_history
+        ../../../.claude.json
+        ../../../.claude.json.backup.1770518037337
+        ../../../.claude.json.backup.1770518037345
+        ../../../.claude.json.backup.1770518039552
+        ../../../.claude.json.backup.1770518039567
+        ../../../.claude.json.backup.1770518039587
+        ../../../.claude/
+        ../../../.cursor/
+        ../../../.gitconfig
+        ../../../.idlerc/
+        ../../../.ipynb_checkpoints/
+        ../../../.ipython/
+        ../../../.jupyter/
+        ../../../.lesshst
+        ../../../.matplotlib/
+        ../../../.python_history
+        ../../../.redhat/
+        ../../../.vscode/
+        ../../../AppData/
+        ../../../Contacts/
+        ../../../Desktop/
+        ../../../Downloads/
+        ../../../Favorites/
+        ../../../IdeaProjects/
+        ../../../Links/
+        ../../../Music/
+        ../../../NTUSER.DAT
+        ../../../NTUSER.DAT{c3efdf03-82cd-11f0-b65f-9cc7d393de43}.TM.blf
+        ../../../NTUSER.DAT{c3efdf03-82cd-11f0-b65f-9cc7d393de43}.TMContainer00000000000000000001.regtrans-ms
+        ../../../NTUSER.DAT{c3efdf03-82cd-11f0-b65f-9cc7d393de43}.TMContainer00000000000000000002.regtrans-ms
+        ../../.849C9593-D756-4E56-8D6E-42412F2A707B
+        ../../20240915111857274_lBKruZ5gFN2p8PAGSUpOSaS5WQJCGMgY_Download.pdf
+        ../../20240915111857274_lBKruZ5gFN2p8PAGSUpOSaS5WQJCGMgY_signedFinal.pdf
+        ../../Apps/
+        ../Aviral.07/
+        ../Canva.lnk
+        ../MinGW Installer.lnk
+        ../Opera Browser.lnk
+        ../PPT on Research Paper.pptx
+        ../Project Ideas.docx
+        ../Wispr Flow.lnk
+        ../Zoom Workplace.lnk
+        ../desktop.ini
+        ../../Documents/
+        ../../Dokumen/
+        ../../Gambar/
+        ../../Getting started with OneDrive.pdf
+        ../../IMG_20240915_110337.jpg
+        ../../IMG_20240915_110403.jpg
+        ../../Pan_Card.jpg
+        ../../Personal Vault.lnk
+        ../../Physics Hall Of Fame Activity- Avisha(IX).docx
+        ../../SIH Hackathon.pdf
+        ../../SIH2025-IDEA-Presentation-Format[1].pptx
+        ../../Signature.jpg
+        ../../Videos/
+        ../../desktop.ini
+        ../../personal investments.xlsx
+        ../../../Saved Games/
+        ../../../Searches/
+        ../../../Videos/
+        ../../../aviral.jpynb
+        ../../../battery-report.html
+        ../../../ntuser.dat.LOG1
+        ../../../ntuser.dat.LOG2
+        ../../../ntuser.ini
+        ../../../test_plot.py
